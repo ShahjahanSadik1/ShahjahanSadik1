@@ -1,8 +1,14 @@
 ### Hi there 👋, I'm Shahjahan Sadik.
 #### I'm an Android app developer.
 
-(https://github.com/ShahjahanSadik1/ShahjahanSadik1/blob/main/Beige%20Grey%20Vlogger%20YouTube%20Banner.png?raw=true)
-.
+
+
+
+
+![I'm an Android app developer.](https://github.com/ShahjahanSadik1/ShahjahanSadik1/blob/main/Beige%20Grey%20Vlogger%20YouTube%20Banner.png?raw=true)
+
+
+
 
 Skills: JAVA
 
